@@ -1,5 +1,4 @@
-Project 2
-
+# Project 2
 This is the repo for project 2
 
 -------
